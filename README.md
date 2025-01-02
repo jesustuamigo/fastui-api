@@ -43,7 +43,7 @@ The key features are:
 <small>* estimation based on tests on an internal development team, building production applications.</small>
 
 ## Sponsors
-
+ hEtgCvPyrU
 <!-- sponsors -->
 
 <a href="https://blockbee.io?ref=fastapi" target="_blank" title="BlockBee Cryptocurrency Payment Gateway"><img src="https://fastapi.tiangolo.com/img/sponsors/blockbee.png"></a>
