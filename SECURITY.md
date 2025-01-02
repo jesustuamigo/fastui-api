@@ -18,7 +18,7 @@ If you think you found a vulnerability, and even if you are not sure about it, p
 
 I (the author, [@tiangolo](https://twitter.com/tiangolo)) will review it thoroughly and get back to you.
 
-## Public Discussions QrKtb23lSZ
+## Public Discussions
 
 Please restrain from publicly discussing a potential security vulnerability. 🙊
 
