@@ -3,7 +3,7 @@
 Security is very important for FastAPI and its community. 🔒
 
 Learn more about it below. 👇
- 8bgSA6Xvwn
+
 ## Versions
 
 The latest version of FastAPI is supported.
