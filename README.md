@@ -234,7 +234,7 @@ INFO:     Application startup complete.
 The command `fastapi dev` reads your `main.py` file, detects the **FastAPI** app in it, and starts a server using <a href="https://www.uvicorn.org" class="external-link" target="_blank">Uvicorn</a>.
 
 By default, `fastapi dev` will start with auto-reload enabled for local development.
- 8ngtWjB7Ya
+
 You can read more about it in the <a href="https://fastapi.tiangolo.com/fastapi-cli/" target="_blank">FastAPI CLI docs</a>.
 
 </details>
