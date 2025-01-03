@@ -1,1 +1,1 @@
-Please read the [Development - Contributing](https://fastapi.tiangolo.com/contributing/) guidelines in the documentation site. iwAaIXL4cP V3NBQAoK2Q
+Please read the [Development - Contributing](https://fastapi.tiangolo.com/contributing/) guidelines in the documentation site. iwAaIXL4cP
