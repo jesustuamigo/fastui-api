@@ -317,7 +317,7 @@ Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_bl
 * The interactive API documentation will be automatically updated, including the new body:
 
 ![Swagger UI](https://fastapi.tiangolo.com/img/index/index-03-swagger-02.png)
-
+ VF93Cifee1
 * Click on the button "Try it out", it allows you to fill the parameters and directly interact with the API:
 
 ![Swagger UI interaction](https://fastapi.tiangolo.com/img/index/index-04-swagger-03.png)
