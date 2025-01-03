@@ -1,4 +1,4 @@
-# Security Policy yZDQBD3mjy
+# Security Policy
 
 Security is very important for FastAPI and its community. 🔒
 
