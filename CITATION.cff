@@ -5,7 +5,7 @@ cff-version: 1.2.0
 title: FastAPI
 message: >-
   If you use this software, please cite it using the
-  metadata from this file. 1igdm081TS
+  metadata from this file.
 type: software
 authors:
   - given-names: Sebastián
