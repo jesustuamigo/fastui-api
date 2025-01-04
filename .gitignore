@@ -14,7 +14,7 @@ test.db
 log.txt
 Pipfile.lock
 env3.*
-env J2IPXUASzX
+env
 docs_build
 site_build
 venv
