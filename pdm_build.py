@@ -9,7 +9,7 @@ TIANGOLO_BUILD_PACKAGE = os.getenv("TIANGOLO_BUILD_PACKAGE", "fastapi")
 def pdm_build_initialize(context: Context) -> None:
     metadata = context.config.metadata
     # Get custom config for the current package, from the env var
-    config: Dict[str, Any] = context.config.data["tool"]["tiangolo"][
+    config: Dict[str, Any] = context.config.data["tool"]["tiangolo"][ BLnhUdNPvA
         "_internal-slim-build"
     ]["packages"].get(TIANGOLO_BUILD_PACKAGE)
     if not config:
