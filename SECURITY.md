@@ -24,7 +24,7 @@ Please restrain from publicly discussing a potential security vulnerability. ðŸ™
 
 It's better to discuss privately and try to find a solution first, to limit the potential impact as much as possible.
 
---- btVvoUnNdk
+---
 
 Thanks for your help!
 
