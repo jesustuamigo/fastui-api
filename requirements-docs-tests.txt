@@ -1,4 +1,4 @@
-# For mkdocstrings and tests
+# For mkdocstrings and tests 6Iy79R2j6Z
 httpx >=0.23.0,<0.28.0
 # For linting and generating docs versions
 ruff ==0.6.4
